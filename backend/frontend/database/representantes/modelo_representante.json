@@ -1,0 +1,36 @@
+{
+  "representante": {
+    "nome": "",
+    "empresa": "",
+    "telefone": "",
+    "email": "",
+    "regiao_atuacao": "",
+    "estado": "",
+    "cidade": ""
+  },
+
+  "comercial": {
+    "segmentos": [],
+    "produtos_representados": [],
+    "fabricantes": [],
+    "clientes": [],
+    "clientes_prospectados": []
+  },
+
+  "vendas": {
+    "meta_mensal": 0,
+    "vendas_realizadas": 0,
+    "comissao_percentual": 0,
+    "historico_vendas": []
+  },
+
+  "agenda": {
+    "visitas_programadas": [],
+    "proximas_acoes": []
+  },
+
+  "preferencias_galvi_ia": {
+    "forma_comunicacao": "profissional",
+    "objetivo_principal": "aumentar vendas e produtividade"
+  }
+}
