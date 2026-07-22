@@ -1,0 +1,24 @@
+{
+  "vendas": [
+    {
+      "data_venda": "",
+      "cliente": "",
+      "cnpj_cliente": "",
+      "produto": "",
+      "fabricante": "",
+      "valor_venda": 0,
+      "percentual_comissao": 0,
+      "valor_comissao": 0,
+      "status_pagamento": "",
+      "data_recebimento": "",
+      "observacoes": ""
+    }
+  ],
+
+  "resumo": {
+    "total_vendido": 0,
+    "total_comissao_prevista": 0,
+    "total_comissao_recebida": 0,
+    "total_comissao_pendente": 0
+  }
+}
