@@ -1,0 +1,31 @@
+{
+  "relatorios": {
+    "periodo": "",
+    "representante": "",
+
+    "desempenho_vendas": {
+      "total_vendido": 0,
+      "quantidade_vendas": 0,
+      "ticket_medio": 0
+    },
+
+    "clientes": {
+      "total_clientes": 0,
+      "clientes_ativos": 0,
+      "clientes_sem_contato": 0,
+      "novos_clientes": 0
+    },
+
+    "comissoes": {
+      "comissao_prevista": 0,
+      "comissao_recebida": 0,
+      "comissao_pendente": 0
+    },
+
+    "analise_ia": {
+      "pontos_fortes": [],
+      "pontos_melhoria": [],
+      "proximas_acoes": []
+    }
+  }
+}
